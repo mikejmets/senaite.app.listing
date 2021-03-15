@@ -5,6 +5,7 @@
           columns python:view.columns;
           column_keys python:columns.keys();">
 
+<p>contents_table_view.pt</p>
   <table class="table table-bordered table-striped table-sm">
     <thead>
       <tr>
